@@ -73,5 +73,4 @@ The roll cage was modeled as a 1-part, 1-body tubular space frame in **DesignMod
 - Correlate flexible-mode frequencies against expected excitation sources (engine RPM range, terrain-induced vibration) to check for resonance risk.
 - Include material properties, mesh statistics, and element type used in the analysis for full reproducibility.
 
----
-*Update the sections above (material, mesh details, boundary conditions, contributors) with your specific project information before publishing.*
+
